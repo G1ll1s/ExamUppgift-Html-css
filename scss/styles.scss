@@ -1,0 +1,18 @@
+@import "reset";
+
+@import "variables";
+
+@import "small-default";
+
+// pluralsight original value: 1140px
+@media only screen and (min-width: 1002px) {
+  @import "large";
+}
+
+//Caspers contact scss
+@import "casper-contact-default";
+
+@media only screen and (min-width: 1002px) {
+  @import "casper-contact-large";
+}
+

@@ -1,0 +1,26 @@
+/* ---------- Colors ---------- */
+$primaryColor: #000;
+$lightblueColor: #C7DDEA;
+$lightgreyColor: #EBEBEB;
+$orangeColor: #F17949;
+$yellowColor: #FAB131;
+$greyColor: #A9A19E;
+$whiteColor: #FFFFFF;
+$darkgreyColor: #777574;
+/* card-avatars' bg-colors */
+// $avatar-bgcolors: (child: $greyColor, adult: $yellowColor, senior: $orangeColor);
+// avatar-bgcolors[adult]
+/* note: tested, but no-go */
+
+/* ---------- Spacing ---------- */
+$gutterMobile: 16.5px;  // 'diken'
+// $gutterDesktop: ???px;
+
+/* ---------- Fonts ---------- */
+$headerFont: "Frank Ruhl Libre", "MS Serif", Georgia, serif;
+$paragraphFont: "Fira sans", Helvetica, Arial, sans-serif;
+$pSizeDefault: 14px;
+$pLineHeight: 24px;
+$normalWeight: 500;
+$semiboldWeight: 600;
+$boldWeight: 700;

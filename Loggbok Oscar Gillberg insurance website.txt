@@ -1,0 +1,29 @@
+Oscar Gillberg BUV23 Loggbok
+
+12 jan Fredag:
+Prata med gruppen hur vi ville sätta upp strukturen på hemsidan.
+
+13 jan Lördag:
+Satt med Daniel och kollade lite om Jira.
+
+14 jan Söndag:
+
+15 jan Måndag:
+Började med att komma på user stories för projektet och
+sen titta jag lite på headern/navbar-strukturen för min del av projektet.
+
+16 jan Tisdag:
+Arbete länge idag med header/navbar-strukturen och blev klar samma dag, 
+sen började jag med insidan av header/navbar.
+Arbetar samtidigt med "join now"-knappen som ska vara både i headern och i main.
+
+17 jan Onsdag:
+Forsätter med att sätta upp grid och flex för headern/navbar-strukturen och "join now"-knappen.
+Åkte upp till Dalarna för att gå på en begravning på Torsdag så satt lite på natten för att göra
+klart arbetet.
+
+18 jan Torsdag:
+Var på Begravning.
+
+19 jan Fredag:
+Gjorde lite små justeringar på hemsidan.
